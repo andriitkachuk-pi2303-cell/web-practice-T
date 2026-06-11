@@ -105,7 +105,7 @@ nav a:hover { color: var(--accent-primary); }
    HERO
 ═══════════════════════════ */
 .hero {
-background-image: url('/assets/image/bg-image.png');
+background-image: url('assets/image/bg-image.png');
   position: relative;
   height: 100vh;
   min-height: 600px;
